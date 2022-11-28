@@ -91,7 +91,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ae3989;
+  background: linear-gradient(180deg, #8f63de, violet);
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -105,7 +105,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #5e39ae;
+  background: linear-gradient(180deg, #6848a3, rgb(172, 94, 172));
   color: #fff;
 }
 
@@ -203,14 +203,14 @@ h6 {
   border-radius: 50px;
   color: #fff;
   font-size: 14px;
-  border: 2px solid #ae3989;
+  border: 1px solid #ffffff;
   font-weight: 600;
 }
 
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #ae3989;
+  background: linear-gradient(180deg, #6848a3, rgb(172, 94, 172));
 }
 
 .navbar .dropdown ul {
@@ -429,11 +429,11 @@ h6 {
   transition: 0.5s;
   margin: 10px 0 0 0;
   color: #fff;
-  background: #ae3989;
+  background: linear-gradient(180deg, #8f63de, violet);
 }
 
 #hero .btn-get-started:hover {
-  background: #5e39ae;
+  background: linear-gradient(180deg, #6848a3, rgb(172, 94, 172));
 }
 
 #hero .btn-watch-video {
@@ -661,14 +661,14 @@ section {
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   margin-top: 6px;
-  border: 2px solid #ae3989;
+  border: 1px solid #ae3989;
 }
 
 .about .content .btn-learn-more:hover {
-  background: #5e39ae;
+  background: linear-gradient(180deg, #6848a3, rgb(172, 94, 172));
   color: #fff;
   text-decoration: none;
-  border: 2px solid #5e39ae;
+  border: 1px solid #5e39ae;
 }
 
 .about {
@@ -943,13 +943,13 @@ section {
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px;
-  border: 2px solid #fff;
+  border: 1px solid #fff;
   color: #fff;
 }
 
 .cta .cta-btn:hover {
-  background: #ae3989;
-  border: 2px solid #ae3989;
+  background: linear-gradient(180deg, #6848a3, rgb(172, 94, 172));
+  border: 2px solid linear-gradient(180deg, #8f63de, violet);
 }
 
 @media (max-width: 1024px) {
@@ -990,7 +990,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  background: #5e39ae;
+  background: linear-gradient(180deg, #6848a3, rgb(172, 94, 172));
   color: #fff;
 }
 
@@ -1216,7 +1216,7 @@ section {
 }
 
 .team .member .social a:hover {
-  background: #5e39ae;
+  background: linear-gradient(180deg, #6848a3, rgb(172, 94, 172));
 }
 
 .team .member .social a:hover i {
@@ -1315,7 +1315,7 @@ section {
 }
 
 .pricing .buy-btn:hover {
-  background: #5e39ae;
+  background: linear-gradient(180deg, #6848a3, rgb(172, 94, 172));
   color: #fff;
 }
 
@@ -1329,7 +1329,7 @@ section {
 }
 
 .pricing .featured .buy-btn:hover {
-  background: #5e39ae;
+  background: linear-gradient(180deg, #6848a3, rgb(172, 94, 172));
 }
 
 @media (max-width: 992px) {
@@ -1501,14 +1501,14 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #5e39ae;
+  background: linear-gradient(180deg, #6848a3, rgb(172, 94, 172));
   color: #fff;
 }
 
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #5e39ae;
+  background: linear-gradient(180deg, #6848a3, rgb(172, 94, 172));
   color: #fff;
 }
 
@@ -1605,7 +1605,7 @@ section {
 }
 
 .contact .php-email-form button[type='submit'] {
-  background: #ae3989;
+  background: linear-gradient(180deg, #8f63de, violet);
   border: 0;
   padding: 12px 34px;
   color: #fff;
@@ -1614,7 +1614,7 @@ section {
 }
 
 .contact .php-email-form button[type='submit']:hover {
-  background: #5e39ae;
+  background: linear-gradient(180deg, #6848a3, rgb(172, 94, 172));
 }
 
 @-webkit-keyframes animate-loading {
@@ -1729,7 +1729,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #ae3989;
+  background: linear-gradient(180deg, #8f63de, violet);
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -1737,7 +1737,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type='submit']:hover {
-  background: #5e39ae;
+  background: linear-gradient(180deg, #6848a3, rgb(172, 94, 172));
 }
 
 #footer .footer-top {
@@ -1830,7 +1830,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #5e39ae;
+  background: linear-gradient(180deg, #6848a3, rgb(172, 94, 172));
   color: #fff;
   text-decoration: none;
 }
