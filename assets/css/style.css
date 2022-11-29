@@ -958,8 +958,8 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: rgba(17, 94, 228, 0.9);
-  border: 2px solid linear-gradient(180deg, #8f63de, violet);
+  background: rgb(245, 56, 204);
+  /* border: 2px solid linear-gradient(180deg, #8f63de, violet); */
 }
 
 @media (max-width: 1024px) {
