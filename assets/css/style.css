@@ -43,7 +43,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: rgba(17, 94, 228, 0.9);
+  background: rgba(84, 64, 239, 0.9);
 }
 
 #preloader:before {
@@ -51,7 +51,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid rgba(17, 94, 228, 0.9);
+  border: 6px solid rgba(84, 64, 239, 0.9);
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -1689,6 +1689,73 @@ section {
   padding-right: 10px;
   color: #4668a2;
   content: '/';
+}
+
+/* Styling buttons & webpage */
+
+p {
+  margin: 1em 0;
+  font-size: 16px;
+}
+
+.popupk {
+  display: none;
+  position: fixed;
+  padding: 10px;
+  width: 280px;
+  left: 50%;
+  margin-left: -150px;
+  height: 180px;
+  top: 50%;
+  margin-top: -100px;
+  background: #fff;
+  border: 3px solid #f04a49;
+  z-index: 20;
+}
+
+#popupk:after {
+  position: fixed;
+  content: '';
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: -2;
+}
+
+#popupk:before {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: #fff;
+  z-index: -1;
+}
+
+/* Styling buttons & webpage */
+
+.pbutton {
+  margin-top: 50px;
+  background-color: rgba(255, 255, 255, 0.3);
+  border: 3px solid #f04a49;
+  color: #f04a49;
+  font-size: 25px;
+  padding: 10px 20px;
+}
+
+.pbutton:hover {
+  background-color: #f04a49;
+  color: #fff;
+  border: 3px solid #f04a49;
+  transition: all 0.3s ease 0s;
+}
+
+p {
+  margin: 1em 0;
+  font-size: 16px;
 }
 
 /*--------------------------------------------------------------
