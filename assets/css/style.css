@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: rgb(245, 56, 204);
+  color: rgb(241, 112, 213);
   text-decoration: none;
 }
 
 a:hover {
-  color: #5e39ae;
+  color: #7450c0;
   text-decoration: none;
 }
 
@@ -250,7 +250,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover > a {
-  color: #5e39ae;
+  color: #794cda;
 }
 
 .navbar .dropdown:hover > ul {
@@ -350,7 +350,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover > a {
-  color: #5e39ae;
+  color: #794cda;
 }
 
 .navbar-mobile .getstarted,
@@ -386,7 +386,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover > a {
-  color: #5e39ae;
+  color: #794cda;
 }
 
 .navbar-mobile .dropdown > .dropdown-active {
@@ -432,7 +432,7 @@ h6 {
   margin: 10px 0 0 0;
   color: #fff;
   /* background: linear-gradient(180deg, #8f63de, violet); */
-  background: rgb(245, 56, 204);
+  background: rgb(241, 112, 213);
 }
 
 #hero .btn-get-started:hover {
@@ -459,7 +459,7 @@ h6 {
 }
 
 #hero .btn-watch-video:hover i {
-  color: #5e39ae;
+  color: #794cda;
 }
 
 #hero .animated {
@@ -672,7 +672,7 @@ section {
   background: rgba(17, 94, 228, 0.9);
   color: #fff;
   text-decoration: none;
-  border: 1px solid #5e39ae;
+  border: 1px solid #794cda;
 }
 
 .about {
@@ -958,7 +958,7 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: rgb(245, 56, 204);
+  background: rgb(241, 112, 213);
   /* border: 2px solid linear-gradient(180deg, #8f63de, violet); */
 }
 
@@ -1867,7 +1867,7 @@ p {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: rgb(245, 56, 204);
+  color: rgb(241, 112, 213);
   font-size: 18px;
   line-height: 1;
 }
@@ -1897,7 +1897,7 @@ p {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: rgb(245, 56, 204);
+  background: rgb(241, 112, 213);
   color: #fff;
   line-height: 1;
   padding: 8px 0;
