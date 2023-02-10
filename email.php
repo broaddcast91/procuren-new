@@ -21,7 +21,7 @@ if(isset($_POST['submit'])){
     // sends a copy of the message to the sender
 
 echo "<script>
-    window.location = 'thank-you.php';
+    window.location = 'index.html';
 </script>";
     // to redirect to another page.
     }
